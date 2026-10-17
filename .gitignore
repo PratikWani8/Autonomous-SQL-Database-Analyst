@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Python Virtual Environments & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env.local
+.env.*.local
+*.egg-info/
+.pytest_cache/
+
+# Production Build Artifacts
+build/
+dist/
+client/dist/
+
+# Logs & Runtime
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db
+
+# Sensitive local envs (keep .env.example tracked)
+.env
+server/.env
+ai-service/.env
+client/.env
