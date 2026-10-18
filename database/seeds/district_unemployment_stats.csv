@@ -1,0 +1,301 @@
+state_name,district_name,reporting_year,rural_unemployment_rate,urban_unemployment_rate,overall_unemployment_rate,labour_force_participation_rate,worker_population_ratio,surveyed_households
+Maharashtra,Mumbai,2021-22,5.51,6.67,5.8,45.2,42.58,542
+Maharashtra,Mumbai,2022-23,6.14,7.3,6.4,42.1,39.41,642
+Maharashtra,Pune,2021-22,4.37,5.29,4.6,48.6,46.36,599
+Maharashtra,Pune,2022-23,4.99,5.93,5.2,45.8,43.42,649
+Maharashtra,Nagpur,2021-22,5.79,7.01,6.1,44.5,41.79,468
+Maharashtra,Nagpur,2022-23,6.43,7.64,6.7,41.2,38.44,518
+Maharashtra,Nashik,2021-22,4.08,4.94,4.3,47.8,45.74,612
+Maharashtra,Nashik,2022-23,4.8,5.7,5.0,44.9,42.65,562
+Maharashtra,Thane,2021-22,4.56,5.52,4.8,46.1,43.89,594
+Maharashtra,Thane,2022-23,5.66,6.73,5.9,43.0,40.46,744
+Maharashtra,Aurangabad,2021-22,5.13,6.21,5.4,45.0,42.57,457
+Maharashtra,Aurangabad,2022-23,5.95,7.07,6.2,41.8,39.21,507
+Maharashtra,Kolhapur,2021-22,3.23,3.91,3.4,51.2,49.46,472
+Maharashtra,Kolhapur,2022-23,3.94,4.67,4.1,49.0,46.99,672
+Maharashtra,Solapur,2021-22,4.56,5.52,4.8,46.9,44.65,640
+Maharashtra,Solapur,2022-23,5.28,6.27,5.5,43.8,41.39,540
+Maharashtra,Amravati,2021-22,5.61,6.79,5.9,44.0,41.4,451
+Maharashtra,Amravati,2022-23,6.53,7.75,6.8,40.8,38.03,501
+Maharashtra,Nanded,2021-22,5.7,6.9,6.0,43.8,41.17,595
+Maharashtra,Nanded,2022-23,6.82,8.09,7.1,40.1,37.25,545
+Karnataka,Bengaluru Urban,2021-22,4.27,5.17,4.5,49.5,47.27,604
+Karnataka,Bengaluru Urban,2022-23,5.57,6.61,5.8,46.2,43.52,654
+Karnataka,Mysuru,2021-22,3.61,4.37,3.8,50.1,48.2,636
+Karnataka,Mysuru,2022-23,4.42,5.24,4.6,47.4,45.22,536
+Karnataka,Belagavi,2021-22,3.8,4.6,4.0,48.9,46.94,603
+Karnataka,Belagavi,2022-23,4.61,5.47,4.8,46.1,43.89,653
+Karnataka,Hubballi-Dharwad,2021-22,4.08,4.94,4.3,47.5,45.46,529
+Karnataka,Hubballi-Dharwad,2022-23,4.99,5.93,5.2,44.5,42.19,579
+Karnataka,Mangaluru (Dakshina Kannada),2021-22,2.94,3.56,3.1,52.0,50.39,592
+Karnataka,Mangaluru (Dakshina Kannada),2022-23,3.65,4.33,3.8,49.8,47.91,592
+Karnataka,Kalaburagi,2021-22,6.08,7.36,6.4,43.0,40.25,637
+Karnataka,Kalaburagi,2022-23,7.3,8.66,7.6,39.5,36.5,687
+Karnataka,Ballari,2021-22,5.51,6.67,5.8,44.8,42.2,494
+Karnataka,Ballari,2022-23,6.43,7.64,6.7,41.3,38.53,744
+Karnataka,Shivamogga,2021-22,3.42,4.14,3.6,49.8,48.01,648
+Karnataka,Shivamogga,2022-23,4.13,4.9,4.3,47.2,45.17,748
+Karnataka,Tumakuru,2021-22,3.7,4.48,3.9,49.0,47.09,466
+Karnataka,Tumakuru,2022-23,4.51,5.36,4.7,46.4,44.22,666
+Karnataka,Udupi,2021-22,2.75,3.33,2.9,52.8,51.27,452
+Karnataka,Udupi,2022-23,3.36,3.99,3.5,50.7,48.93,502
+Tamil Nadu,Chennai,2021-22,4.84,5.86,5.1,46.5,44.13,471
+Tamil Nadu,Chennai,2022-23,5.95,7.07,6.2,43.1,40.43,621
+Tamil Nadu,Coimbatore,2021-22,3.52,4.25,3.7,51.5,49.59,563
+Tamil Nadu,Coimbatore,2022-23,4.22,5.02,4.4,48.9,46.75,613
+Tamil Nadu,Madurai,2021-22,4.08,4.94,4.3,48.2,46.13,630
+Tamil Nadu,Madurai,2022-23,4.9,5.81,5.1,45.3,42.99,730
+Tamil Nadu,Tiruchirappalli,2021-22,3.89,4.71,4.1,49.0,46.99,607
+Tamil Nadu,Tiruchirappalli,2022-23,4.7,5.59,4.9,46.2,43.94,657
+Tamil Nadu,Salem,2021-22,3.7,4.48,3.9,50.8,48.82,536
+Tamil Nadu,Salem,2022-23,4.42,5.24,4.6,48.1,45.89,686
+Tamil Nadu,Tirunelveli,2021-22,3.8,4.6,4.0,49.2,47.23,625
+Tamil Nadu,Tirunelveli,2022-23,4.51,5.36,4.7,46.6,44.41,575
+Tamil Nadu,Erode,2021-22,3.32,4.02,3.5,52.1,50.28,559
+Tamil Nadu,Erode,2022-23,4.03,4.79,4.2,49.6,47.52,509
+Tamil Nadu,Vellore,2021-22,4.37,5.29,4.6,47.0,44.84,501
+Tamil Nadu,Vellore,2022-23,5.38,6.38,5.6,43.9,41.44,701
+Tamil Nadu,Thanjavur,2021-22,3.99,4.83,4.2,48.5,46.46,474
+Tamil Nadu,Thanjavur,2022-23,4.8,5.7,5.0,45.7,43.41,724
+Tamil Nadu,Dindigul,2021-22,3.7,4.48,3.9,50.0,48.05,638
+Tamil Nadu,Dindigul,2022-23,4.42,5.24,4.6,47.3,45.12,738
+Uttar Pradesh,Lucknow,2021-22,5.51,6.67,5.8,43.5,40.98,647
+Uttar Pradesh,Lucknow,2022-23,6.72,7.98,7.0,39.8,37.01,697
+Uttar Pradesh,Kanpur Nagar,2021-22,5.79,7.01,6.1,42.8,40.19,613
+Uttar Pradesh,Kanpur Nagar,2022-23,6.91,8.21,7.2,39.1,36.28,513
+Uttar Pradesh,Varanasi,2021-22,5.22,6.32,5.5,44.2,41.77,609
+Uttar Pradesh,Varanasi,2022-23,6.24,7.41,6.5,40.8,38.15,709
+Uttar Pradesh,Prayagraj,2021-22,5.89,7.13,6.2,42.1,39.49,649
+Uttar Pradesh,Prayagraj,2022-23,7.2,8.55,7.5,38.4,35.52,749
+Uttar Pradesh,Agra,2021-22,5.61,6.79,5.9,43.0,40.46,489
+Uttar Pradesh,Agra,2022-23,6.62,7.87,6.9,39.6,36.87,689
+Uttar Pradesh,Meerut,2021-22,5.03,6.09,5.3,44.6,42.24,577
+Uttar Pradesh,Meerut,2022-23,6.05,7.18,6.3,41.2,38.6,627
+Uttar Pradesh,Ghaziabad,2021-22,4.94,5.98,5.2,45.8,43.42,624
+Uttar Pradesh,Ghaziabad,2022-23,5.76,6.84,6.0,42.6,40.04,524
+Uttar Pradesh,Gorakhpur,2021-22,6.17,7.47,6.5,41.5,38.8,484
+Uttar Pradesh,Gorakhpur,2022-23,7.49,8.89,7.8,37.8,34.85,534
+Uttar Pradesh,Bareilly,2021-22,5.98,7.24,6.3,42.4,39.73,529
+Uttar Pradesh,Bareilly,2022-23,7.3,8.66,7.6,38.8,35.85,679
+Uttar Pradesh,Aligarh,2021-22,5.7,6.9,6.0,43.1,40.51,640
+Uttar Pradesh,Aligarh,2022-23,6.82,8.09,7.1,39.5,36.7,590
+Gujarat,Ahmedabad,2021-22,4.08,4.94,4.3,50.2,48.04,525
+Gujarat,Ahmedabad,2022-23,5.09,6.04,5.3,47.1,44.6,525
+Gujarat,Surat,2021-22,3.61,4.37,3.8,52.4,50.41,540
+Gujarat,Surat,2022-23,4.42,5.24,4.6,49.8,47.51,740
+Gujarat,Vadodara,2021-22,3.89,4.71,4.1,50.8,48.72,632
+Gujarat,Vadodara,2022-23,4.8,5.7,5.0,47.9,45.5,732
+Gujarat,Rajkot,2021-22,3.8,4.6,4.0,51.0,48.96,476
+Gujarat,Rajkot,2022-23,4.61,5.47,4.8,48.2,45.89,676
+Gujarat,Bhavnagar,2021-22,4.37,5.29,4.6,48.5,46.27,576
+Gujarat,Bhavnagar,2022-23,5.28,6.27,5.5,45.4,42.9,676
+Gujarat,Jamnagar,2021-22,4.18,5.06,4.4,49.2,47.04,524
+Gujarat,Jamnagar,2022-23,4.99,5.93,5.2,46.2,43.8,674
+Gujarat,Gandhinagar,2021-22,3.7,4.48,3.9,51.5,49.49,475
+Gujarat,Gandhinagar,2022-23,4.51,5.36,4.7,48.6,46.32,525
+Gujarat,Junagadh,2021-22,4.46,5.4,4.7,47.9,45.65,594
+Gujarat,Junagadh,2022-23,5.47,6.5,5.7,44.8,42.25,644
+Gujarat,Anand,2021-22,3.8,4.6,4.0,50.5,48.48,500
+Gujarat,Anand,2022-23,4.61,5.47,4.8,47.8,45.51,650
+Gujarat,Bharuch,2021-22,3.99,4.83,4.2,49.8,47.71,536
+Gujarat,Bharuch,2022-23,4.9,5.81,5.1,46.9,44.51,736
+Kerala,Thiruvananthapuram,2021-22,6.74,8.16,7.1,43.8,40.69,641
+Kerala,Thiruvananthapuram,2022-23,7.87,9.35,8.2,39.8,36.54,691
+Kerala,Ernakulam,2021-22,5.61,6.79,5.9,46.2,43.47,647
+Kerala,Ernakulam,2022-23,6.72,7.98,7.0,42.6,39.62,747
+Kerala,Kozhikode,2021-22,6.17,7.47,6.5,44.5,41.61,451
+Kerala,Kozhikode,2022-23,7.3,8.66,7.6,40.8,37.7,501
+Kerala,Thrissur,2021-22,5.89,7.13,6.2,45.0,42.21,607
+Kerala,Thrissur,2022-23,6.91,8.21,7.2,41.5,38.51,657
+Kerala,Kollam,2021-22,7.03,8.51,7.4,43.1,39.91,468
+Kerala,Kollam,2022-23,8.26,9.8,8.6,39.0,35.65,668
+Kerala,Palakkad,2021-22,5.79,7.01,6.1,45.5,42.72,539
+Kerala,Palakkad,2022-23,6.82,8.09,7.1,42.0,39.02,589
+Kerala,Malappuram,2021-22,6.46,7.82,6.8,43.5,40.54,511
+Kerala,Malappuram,2022-23,7.68,9.12,8.0,39.5,36.34,561
+Kerala,Kannur,2021-22,5.98,7.24,6.3,44.8,41.98,534
+Kerala,Kannur,2022-23,7.1,8.44,7.4,41.2,38.15,634
+Kerala,Kottayam,2021-22,5.51,6.67,5.8,46.8,44.09,611
+Kerala,Kottayam,2022-23,6.53,7.75,6.8,43.2,40.26,661
+Kerala,Alappuzha,2021-22,6.27,7.59,6.6,44.2,41.28,590
+Kerala,Alappuzha,2022-23,7.39,8.78,7.7,40.5,37.38,690
+Rajasthan,Jaipur,2021-22,4.66,5.63,4.9,46.8,44.51,559
+Rajasthan,Jaipur,2022-23,5.76,6.84,6.0,43.5,40.89,559
+Rajasthan,Jodhpur,2021-22,4.94,5.98,5.2,46.0,43.61,555
+Rajasthan,Jodhpur,2022-23,6.05,7.18,6.3,42.8,40.1,655
+Rajasthan,Kota,2021-22,4.46,5.4,4.7,47.5,45.27,521
+Rajasthan,Kota,2022-23,5.47,6.5,5.7,44.2,41.68,571
+Rajasthan,Bikaner,2021-22,5.13,6.21,5.4,45.2,42.76,503
+Rajasthan,Bikaner,2022-23,6.24,7.41,6.5,41.9,39.18,553
+Rajasthan,Ajmer,2021-22,4.56,5.52,4.8,47.0,44.74,482
+Rajasthan,Ajmer,2022-23,5.66,6.73,5.9,43.8,41.22,532
+Rajasthan,Udaipur,2021-22,4.75,5.75,5.0,46.5,44.17,557
+Rajasthan,Udaipur,2022-23,5.76,6.84,6.0,43.2,40.61,507
+Rajasthan,Bhilwara,2021-22,4.46,5.4,4.7,47.2,44.98,621
+Rajasthan,Bhilwara,2022-23,5.47,6.5,5.7,44.0,41.49,571
+Rajasthan,Alwar,2021-22,5.22,6.32,5.5,44.8,42.34,631
+Rajasthan,Alwar,2022-23,6.53,7.75,6.8,41.2,38.4,581
+Rajasthan,Sikar,2021-22,5.13,6.21,5.4,45.0,42.57,584
+Rajasthan,Sikar,2022-23,6.43,7.64,6.7,41.5,38.72,584
+Rajasthan,Bharatpur,2021-22,5.42,6.55,5.7,44.2,41.68,576
+Rajasthan,Bharatpur,2022-23,6.72,7.98,7.0,40.6,37.76,576
+Bihar,Patna,2021-22,5.79,7.01,6.1,42.5,39.91,477
+Bihar,Patna,2022-23,7.1,8.44,7.4,38.8,35.93,727
+Bihar,Gaya,2021-22,6.37,7.7,6.7,41.0,38.25,479
+Bihar,Gaya,2022-23,7.87,9.35,8.2,37.2,34.15,529
+Bihar,Bhagalpur,2021-22,5.98,7.24,6.3,41.8,39.17,508
+Bihar,Bhagalpur,2022-23,7.39,8.78,7.7,38.0,35.07,658
+Bihar,Muzaffarpur,2021-22,6.27,7.59,6.6,41.2,38.48,535
+Bihar,Muzaffarpur,2022-23,7.68,9.12,8.0,37.5,34.5,635
+Bihar,Purnia,2021-22,6.65,8.05,7.0,40.2,37.39,608
+Bihar,Purnia,2022-23,8.16,9.69,8.5,36.4,33.31,658
+Bihar,Darbhanga,2021-22,6.46,7.82,6.8,40.8,38.03,643
+Bihar,Darbhanga,2022-23,7.97,9.46,8.3,37.0,33.93,593
+Bihar,Bihar Sharif (Nalanda),2021-22,5.89,7.13,6.2,42.0,39.4,489
+Bihar,Bihar Sharif (Nalanda),2022-23,7.3,8.66,7.6,38.2,35.3,739
+Bihar,Arrah (Bhojpur),2021-22,5.89,7.13,6.2,42.2,39.58,483
+Bihar,Arrah (Bhojpur),2022-23,7.2,8.55,7.5,38.5,35.61,533
+Bihar,Begusarai,2021-22,6.08,7.36,6.4,41.5,38.84,563
+Bihar,Begusarai,2022-23,7.49,8.89,7.8,37.8,34.85,613
+Bihar,Katihar,2021-22,6.74,8.16,7.1,40.0,37.16,465
+Bihar,Katihar,2022-23,8.26,9.8,8.6,36.1,33.0,565
+Madhya Pradesh,Bhopal,2021-22,4.75,5.75,5.0,46.5,44.17,550
+Madhya Pradesh,Bhopal,2022-23,5.86,6.95,6.1,43.1,40.47,700
+Madhya Pradesh,Indore,2021-22,4.37,5.29,4.6,48.0,45.79,639
+Madhya Pradesh,Indore,2022-23,5.38,6.38,5.6,44.8,42.29,539
+Madhya Pradesh,Jabalpur,2021-22,5.13,6.21,5.4,45.2,42.76,643
+Madhya Pradesh,Jabalpur,2022-23,6.24,7.41,6.5,41.8,39.08,693
+Madhya Pradesh,Gwalior,2021-22,5.42,6.55,5.7,44.5,41.96,584
+Madhya Pradesh,Gwalior,2022-23,6.53,7.75,6.8,41.0,38.21,584
+Madhya Pradesh,Ujjain,2021-22,4.66,5.63,4.9,47.1,44.79,523
+Madhya Pradesh,Ujjain,2022-23,5.66,6.73,5.9,43.8,41.22,673
+Madhya Pradesh,Sagar,2021-22,5.51,6.67,5.8,44.1,41.54,519
+Madhya Pradesh,Sagar,2022-23,6.62,7.87,6.9,40.5,37.71,569
+Madhya Pradesh,Dewas,2021-22,4.75,5.75,5.0,46.8,44.46,527
+Madhya Pradesh,Dewas,2022-23,5.76,6.84,6.0,43.5,40.89,527
+Madhya Pradesh,Satna,2021-22,5.61,6.79,5.9,43.8,41.22,627
+Madhya Pradesh,Satna,2022-23,6.82,8.09,7.1,40.1,37.25,727
+Madhya Pradesh,Ratlam,2021-22,4.56,5.52,4.8,47.4,45.12,524
+Madhya Pradesh,Ratlam,2022-23,5.57,6.61,5.8,44.1,41.54,574
+Madhya Pradesh,Rewa,2021-22,5.7,6.9,6.0,43.5,40.89,567
+Madhya Pradesh,Rewa,2022-23,6.91,8.21,7.2,39.8,36.93,517
+West Bengal,Kolkata,2021-22,5.61,6.79,5.9,45.0,42.34,641
+West Bengal,Kolkata,2022-23,6.82,8.09,7.1,41.2,38.27,591
+West Bengal,North 24 Parganas,2021-22,4.94,5.98,5.2,46.8,44.37,642
+West Bengal,North 24 Parganas,2022-23,6.05,7.18,6.3,43.4,40.67,642
+West Bengal,South 24 Parganas,2021-22,5.32,6.44,5.6,45.5,42.95,611
+West Bengal,South 24 Parganas,2022-23,6.53,7.75,6.8,42.0,39.14,561
+West Bengal,Howrah,2021-22,5.13,6.21,5.4,46.0,43.52,491
+West Bengal,Howrah,2022-23,6.24,7.41,6.5,42.5,39.74,591
+West Bengal,Hooghly,2021-22,4.66,5.63,4.9,47.4,45.08,513
+West Bengal,Hooghly,2022-23,5.76,6.84,6.0,44.1,41.45,713
+West Bengal,Paschim Medinipur,2021-22,5.03,6.09,5.3,46.2,43.75,586
+West Bengal,Paschim Medinipur,2022-23,6.14,7.3,6.4,42.8,40.06,736
+West Bengal,Purba Bardhaman,2021-22,4.84,5.86,5.1,47.0,44.6,554
+West Bengal,Purba Bardhaman,2022-23,5.95,7.07,6.2,43.6,40.9,604
+West Bengal,Darjeeling,2021-22,5.42,6.55,5.7,45.1,42.53,621
+West Bengal,Darjeeling,2022-23,6.53,7.75,6.8,41.5,38.68,721
+West Bengal,Murshidabad,2021-22,6.08,7.36,6.4,43.2,40.44,631
+West Bengal,Murshidabad,2022-23,7.39,8.78,7.7,39.5,36.46,531
+West Bengal,Nadia,2021-22,5.22,6.32,5.5,45.8,43.28,452
+West Bengal,Nadia,2022-23,6.34,7.52,6.6,42.2,39.41,552
+Odisha,Khordha,2021-22,4.46,5.4,4.7,48.0,45.74,605
+Odisha,Khordha,2022-23,5.57,6.61,5.8,44.6,42.01,605
+Odisha,Cuttack,2021-22,4.27,5.17,4.5,48.6,46.41,618
+Odisha,Cuttack,2022-23,5.28,6.27,5.5,45.2,42.71,568
+Odisha,Ganjam,2021-22,4.94,5.98,5.2,46.2,43.8,586
+Odisha,Ganjam,2022-23,6.05,7.18,6.3,42.8,40.1,586
+Odisha,Balasore,2021-22,4.66,5.63,4.9,47.1,44.79,606
+Odisha,Balasore,2022-23,5.76,6.84,6.0,43.8,41.17,556
+Odisha,Sambalpur,2021-22,4.56,5.52,4.8,47.5,45.22,569
+Odisha,Sambalpur,2022-23,5.57,6.61,5.8,44.2,41.64,719
+Odisha,Puri,2021-22,4.56,5.52,4.8,47.2,44.93,456
+Odisha,Puri,2022-23,5.66,6.73,5.9,43.9,41.31,506
+Odisha,Mayurbhanj,2021-22,5.32,6.44,5.6,45.0,42.48,555
+Odisha,Mayurbhanj,2022-23,6.53,7.75,6.8,41.5,38.68,505
+Odisha,Sundargarh,2021-22,4.75,5.75,5.0,46.8,44.46,581
+Odisha,Sundargarh,2022-23,5.86,6.95,6.1,43.4,40.75,581
+Odisha,Bhadrak,2021-22,4.75,5.75,5.0,46.5,44.17,499
+Odisha,Bhadrak,2022-23,5.95,7.07,6.2,43.0,40.33,749
+Odisha,Angul,2021-22,4.56,5.52,4.8,47.3,45.03,527
+Odisha,Angul,2022-23,5.66,6.73,5.9,44.0,41.4,527
+Punjab,Ludhiana,2021-22,5.13,6.21,5.4,46.0,43.52,548
+Punjab,Ludhiana,2022-23,6.34,7.52,6.6,42.4,39.6,648
+Punjab,Amritsar,2021-22,5.51,6.67,5.8,45.0,42.39,506
+Punjab,Amritsar,2022-23,6.72,7.98,7.0,41.2,38.32,656
+Punjab,Jalandhar,2021-22,4.94,5.98,5.2,46.5,44.08,472
+Punjab,Jalandhar,2022-23,6.14,7.3,6.4,42.9,40.15,622
+Punjab,Patiala,2021-22,5.32,6.44,5.6,45.5,42.95,597
+Punjab,Patiala,2022-23,6.43,7.64,6.7,41.8,39.0,597
+Punjab,Bathinda,2021-22,5.7,6.9,6.0,44.2,41.55,503
+Punjab,Bathinda,2022-23,7.01,8.32,7.3,40.5,37.54,653
+Punjab,Hoshiarpur,2021-22,4.56,5.52,4.8,47.5,45.22,519
+Punjab,Hoshiarpur,2022-23,5.66,6.73,5.9,44.0,41.4,569
+Punjab,Mohali (SAS Nagar),2021-22,4.46,5.4,4.7,48.2,45.93,480
+Punjab,Mohali (SAS Nagar),2022-23,5.47,6.5,5.7,45.0,42.43,680
+Punjab,Pathankot,2021-22,5.22,6.32,5.5,45.8,43.28,592
+Punjab,Pathankot,2022-23,6.34,7.52,6.6,42.2,39.41,692
+Punjab,Moga,2021-22,5.79,7.01,6.1,44.0,41.32,547
+Punjab,Moga,2022-23,7.1,8.44,7.4,40.2,37.23,597
+Punjab,Firozpur,2021-22,6.08,7.36,6.4,43.5,40.72,648
+Punjab,Firozpur,2022-23,7.39,8.78,7.7,39.7,36.64,748
+Haryana,Gurugram,2021-22,4.27,5.17,4.5,49.0,46.79,554
+Haryana,Gurugram,2022-23,5.47,6.5,5.7,45.6,43.0,504
+Haryana,Faridabad,2021-22,4.84,5.86,5.1,47.5,45.08,595
+Haryana,Faridabad,2022-23,5.95,7.07,6.2,44.0,41.27,545
+Haryana,Panipat,2021-22,5.22,6.32,5.5,46.2,43.66,516
+Haryana,Panipat,2022-23,6.43,7.64,6.7,42.6,39.75,666
+Haryana,Ambala,2021-22,4.84,5.86,5.1,47.0,44.6,609
+Haryana,Ambala,2022-23,5.86,6.95,6.1,43.5,40.85,709
+Haryana,Yamunanagar,2021-22,5.13,6.21,5.4,46.4,43.89,646
+Haryana,Yamunanagar,2022-23,6.24,7.41,6.5,42.9,40.11,696
+Haryana,Rohtak,2021-22,5.42,6.55,5.7,45.6,43.0,556
+Haryana,Rohtak,2022-23,6.72,7.98,7.0,42.0,39.06,656
+Haryana,Hisar,2021-22,5.79,7.01,6.1,44.8,42.07,525
+Haryana,Hisar,2022-23,7.1,8.44,7.4,41.1,38.06,575
+Haryana,Karnal,2021-22,5.03,6.09,5.3,46.8,44.32,612
+Haryana,Karnal,2022-23,6.14,7.3,6.4,43.2,40.44,662
+Haryana,Sonipat,2021-22,5.32,6.44,5.6,46.0,43.42,457
+Haryana,Sonipat,2022-23,6.53,7.75,6.8,42.5,39.61,607
+Haryana,Panchkula,2021-22,4.37,5.29,4.6,48.8,46.56,578
+Haryana,Panchkula,2022-23,5.38,6.38,5.6,45.5,42.95,528
+Andhra Pradesh,Visakhapatnam,2021-22,4.46,5.4,4.7,48.5,46.22,615
+Andhra Pradesh,Visakhapatnam,2022-23,5.47,6.5,5.7,45.2,42.62,615
+Andhra Pradesh,Vijayawada (NTR),2021-22,4.18,5.06,4.4,49.2,47.04,481
+Andhra Pradesh,Vijayawada (NTR),2022-23,5.18,6.16,5.4,46.0,43.52,531
+Andhra Pradesh,Guntur,2021-22,4.27,5.17,4.5,49.0,46.79,549
+Andhra Pradesh,Guntur,2022-23,5.28,6.27,5.5,45.8,43.28,699
+Andhra Pradesh,Nellore,2021-22,4.56,5.52,4.8,48.2,45.89,583
+Andhra Pradesh,Nellore,2022-23,5.57,6.61,5.8,45.0,42.39,533
+Andhra Pradesh,Kurnool,2021-22,5.22,6.32,5.5,46.5,43.94,571
+Andhra Pradesh,Kurnool,2022-23,6.43,7.64,6.7,43.0,40.12,621
+Andhra Pradesh,Kakinada,2021-22,4.37,5.29,4.6,48.8,46.56,472
+Andhra Pradesh,Kakinada,2022-23,5.38,6.38,5.6,45.5,42.95,722
+Andhra Pradesh,Tirupati,2021-22,4.27,5.17,4.5,49.0,46.79,477
+Andhra Pradesh,Tirupati,2022-23,5.28,6.27,5.5,45.7,43.19,677
+Andhra Pradesh,Rajahmundry (East Godavari),2021-22,4.46,5.4,4.7,48.5,46.22,482
+Andhra Pradesh,Rajahmundry (East Godavari),2022-23,5.47,6.5,5.7,45.2,42.62,532
+Andhra Pradesh,Kadapa (YSR),2021-22,4.94,5.98,5.2,47.0,44.56,498
+Andhra Pradesh,Kadapa (YSR),2022-23,6.14,7.3,6.4,43.5,40.72,648
+Andhra Pradesh,Anantapur,2021-22,5.32,6.44,5.6,46.0,43.42,467
+Andhra Pradesh,Anantapur,2022-23,6.62,7.87,6.9,42.2,39.29,517
+Telangana,Hyderabad,2021-22,4.66,5.63,4.9,47.2,44.89,518
+Telangana,Hyderabad,2022-23,5.86,6.95,6.1,43.8,41.13,568
+Telangana,Rangareddy,2021-22,4.46,5.4,4.7,48.0,45.74,529
+Telangana,Rangareddy,2022-23,5.57,6.61,5.8,44.5,41.92,579
+Telangana,Medchal-Malkajgiri,2021-22,4.37,5.29,4.6,48.5,46.27,500
+Telangana,Medchal-Malkajgiri,2022-23,5.38,6.38,5.6,45.2,42.67,650
+Telangana,Warangal Urban,2021-22,4.94,5.98,5.2,46.5,44.08,534
+Telangana,Warangal Urban,2022-23,6.05,7.18,6.3,43.0,40.29,634
+Telangana,Karimnagar,2021-22,4.75,5.75,5.0,47.0,44.65,557
+Telangana,Karimnagar,2022-23,5.86,6.95,6.1,43.6,40.94,707
+Telangana,Nizamabad,2021-22,5.03,6.09,5.3,46.2,43.75,518
+Telangana,Nizamabad,2022-23,6.24,7.41,6.5,42.6,39.83,618
+Telangana,Khammam,2021-22,4.84,5.86,5.1,46.8,44.41,574
+Telangana,Khammam,2022-23,5.95,7.07,6.2,43.2,40.52,674
+Telangana,Mahbubnagar,2021-22,5.42,6.55,5.7,45.0,42.43,617
+Telangana,Mahbubnagar,2022-23,6.62,7.87,6.9,41.2,38.36,617
+Telangana,Nalgonda,2021-22,5.13,6.21,5.4,45.8,43.33,510
+Telangana,Nalgonda,2022-23,6.34,7.52,6.6,42.1,39.32,560
+Telangana,Adilabad,2021-22,5.7,6.9,6.0,44.2,41.55,504
+Telangana,Adilabad,2022-23,7.01,8.32,7.3,40.4,37.45,604
