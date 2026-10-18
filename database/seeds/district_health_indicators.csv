@@ -1,0 +1,151 @@
+state_name,district_name,survey_period,institutional_births_pct,children_fully_immunized_pct,women_literacy_pct,clean_cooking_fuel_pct,improved_sanitation_pct,sex_ratio_at_birth
+Maharashtra,Mumbai,2019-21,99.4,88.2,92.4,98.1,91.5,932
+Maharashtra,Pune,2019-21,98.6,86.5,87.2,89.4,86.2,920
+Maharashtra,Nagpur,2019-21,97.2,84.1,88.6,84.2,82.1,945
+Maharashtra,Nashik,2019-21,96.1,81.4,80.5,78.6,75.3,910
+Maharashtra,Thane,2019-21,98.1,85.3,85.8,92.0,88.4,905
+Maharashtra,Aurangabad,2019-21,95.4,79.8,77.2,72.1,71.5,895
+Maharashtra,Kolhapur,2019-21,99.1,89.2,84.0,81.5,83.4,935
+Maharashtra,Solapur,2019-21,94.8,82.0,75.1,70.4,69.8,912
+Maharashtra,Amravati,2019-21,96.5,83.4,86.1,76.5,74.2,928
+Maharashtra,Nanded,2019-21,93.2,77.5,71.8,64.2,65.0,902
+Karnataka,Bengaluru Urban,2019-21,99.6,89.4,90.1,97.5,93.8,942
+Karnataka,Mysuru,2019-21,98.9,88.1,78.5,83.2,82.1,955
+Karnataka,Belagavi,2019-21,97.4,84.6,76.0,75.8,77.3,938
+Karnataka,Hubballi-Dharwad,2019-21,98.2,86.0,82.4,85.0,81.6,940
+Karnataka,Mangaluru (Dakshina Kannada),2019-21,99.8,92.5,91.2,94.0,92.5,972
+Karnataka,Kalaburagi,2019-21,93.5,76.2,66.8,62.4,64.1,915
+Karnataka,Ballari,2019-21,94.8,79.5,68.2,67.5,68.0,924
+Karnataka,Shivamogga,2019-21,98.5,87.8,83.5,82.0,80.4,960
+Karnataka,Tumakuru,2019-21,97.6,85.1,77.4,74.5,76.8,948
+Karnataka,Udupi,2019-21,99.9,93.1,89.8,95.2,94.1,988
+Tamil Nadu,Chennai,2019-21,99.7,91.2,91.5,96.8,94.5,958
+Tamil Nadu,Coimbatore,2019-21,99.2,90.4,86.4,91.2,89.0,964
+Tamil Nadu,Madurai,2019-21,98.8,88.5,84.1,86.5,85.2,950
+Tamil Nadu,Tiruchirappalli,2019-21,99.0,89.2,85.0,87.4,86.0,962
+Tamil Nadu,Salem,2019-21,98.1,86.4,79.2,82.0,81.3,935
+Tamil Nadu,Tirunelveli,2019-21,98.9,89.0,84.8,85.2,84.8,970
+Tamil Nadu,Erode,2019-21,98.7,88.2,80.5,84.1,83.0,955
+Tamil Nadu,Vellore,2019-21,98.2,86.8,81.4,80.5,79.8,948
+Tamil Nadu,Thanjavur,2019-21,99.1,89.8,85.3,83.2,82.6,975
+Tamil Nadu,Dindigul,2019-21,98.0,86.5,78.9,81.0,80.1,952
+Uttar Pradesh,Lucknow,2019-21,95.8,81.2,79.5,84.5,78.4,914
+Uttar Pradesh,Kanpur Nagar,2019-21,94.2,79.5,78.0,82.1,76.2,892
+Uttar Pradesh,Varanasi,2019-21,93.6,78.4,76.2,75.4,74.0,908
+Uttar Pradesh,Prayagraj,2019-21,91.5,75.1,72.8,69.8,68.5,898
+Uttar Pradesh,Agra,2019-21,92.4,76.8,73.5,74.0,71.2,888
+Uttar Pradesh,Meerut,2019-21,93.8,78.2,75.0,78.2,74.8,895
+Uttar Pradesh,Ghaziabad,2019-21,96.2,83.0,81.2,88.0,82.5,902
+Uttar Pradesh,Gorakhpur,2019-21,89.6,73.5,69.4,62.1,63.8,920
+Uttar Pradesh,Bareilly,2019-21,88.1,71.0,64.5,60.8,59.2,885
+Uttar Pradesh,Aligarh,2019-21,90.5,74.2,68.9,66.5,65.4,890
+Gujarat,Ahmedabad,2019-21,98.4,87.5,87.1,93.4,89.2,918
+Gujarat,Surat,2019-21,98.6,88.2,86.5,94.1,90.8,895
+Gujarat,Vadodara,2019-21,97.8,86.1,84.2,88.5,86.4,925
+Gujarat,Rajkot,2019-21,97.2,85.4,82.8,86.0,84.5,920
+Gujarat,Bhavnagar,2019-21,95.8,82.6,78.4,78.2,78.0,912
+Gujarat,Jamnagar,2019-21,96.0,83.1,79.5,80.1,79.4,918
+Gujarat,Gandhinagar,2019-21,98.9,89.0,87.5,92.0,88.6,930
+Gujarat,Junagadh,2019-21,95.2,81.5,77.0,75.4,76.2,924
+Gujarat,Anand,2019-21,98.0,87.0,84.8,87.2,85.0,922
+Gujarat,Bharuch,2019-21,96.8,84.8,81.9,83.5,82.8,926
+Kerala,Thiruvananthapuram,2019-21,99.9,94.5,95.2,92.4,96.5,978
+Kerala,Ernakulam,2019-21,100.0,96.2,96.8,95.6,98.2,985
+Kerala,Kozhikode,2019-21,99.8,94.0,94.5,91.8,95.8,972
+Kerala,Thrissur,2019-21,99.9,95.0,95.5,93.2,97.0,980
+Kerala,Kollam,2019-21,99.7,93.8,94.0,89.5,95.2,968
+Kerala,Palakkad,2019-21,99.4,92.5,91.2,85.0,92.4,965
+Kerala,Malappuram,2019-21,99.6,93.0,93.5,88.4,94.6,975
+Kerala,Kannur,2019-21,99.8,94.6,95.0,92.0,96.4,982
+Kerala,Kottayam,2019-21,100.0,96.8,97.5,96.0,98.8,990
+Kerala,Alappuzha,2019-21,99.8,94.2,94.8,90.8,96.0,970
+Rajasthan,Jaipur,2019-21,96.4,84.5,78.4,88.0,81.2,905
+Rajasthan,Jodhpur,2019-21,94.2,80.8,71.5,79.5,74.0,898
+Rajasthan,Kota,2019-21,97.0,85.2,80.1,85.4,80.8,912
+Rajasthan,Bikaner,2019-21,93.5,79.0,70.0,74.2,70.5,890
+Rajasthan,Ajmer,2019-21,95.8,82.4,74.5,80.1,76.4,915
+Rajasthan,Udaipur,2019-21,93.0,78.5,68.2,70.5,68.2,922
+Rajasthan,Bhilwara,2019-21,92.5,77.8,66.5,68.0,66.8,928
+Rajasthan,Alwar,2019-21,94.0,80.2,72.8,76.5,72.4,892
+Rajasthan,Sikar,2019-21,95.2,81.6,74.0,78.0,75.0,918
+Rajasthan,Bharatpur,2019-21,92.8,78.9,70.5,72.4,69.8,885
+Bihar,Patna,2019-21,92.4,76.5,74.2,79.5,72.8,905
+Bihar,Gaya,2019-21,88.5,71.2,65.4,62.0,60.5,915
+Bihar,Bhagalpur,2019-21,89.2,72.8,66.8,64.5,62.1,892
+Bihar,Muzaffarpur,2019-21,88.8,72.0,66.0,63.2,61.4,908
+Bihar,Purnia,2019-21,85.4,67.5,58.2,54.0,52.8,912
+Bihar,Darbhanga,2019-21,87.0,69.8,62.0,58.5,57.2,902
+Bihar,Bihar Sharif (Nalanda),2019-21,90.1,73.4,67.5,66.0,64.2,918
+Bihar,Arrah (Bhojpur),2019-21,90.8,74.5,69.8,68.2,66.5,904
+Bihar,Begusarai,2019-21,89.5,73.0,67.0,64.0,63.0,898
+Bihar,Katihar,2019-21,84.8,66.8,57.5,53.2,51.5,910
+Madhya Pradesh,Bhopal,2019-21,96.8,85.0,82.5,88.2,82.0,922
+Madhya Pradesh,Indore,2019-21,97.5,86.8,84.0,91.5,85.4,930
+Madhya Pradesh,Jabalpur,2019-21,95.2,82.4,79.5,82.0,78.5,924
+Madhya Pradesh,Gwalior,2019-21,94.5,80.6,76.8,80.5,76.2,895
+Madhya Pradesh,Ujjain,2019-21,95.0,81.8,76.0,78.4,75.8,932
+Madhya Pradesh,Sagar,2019-21,93.8,79.2,74.2,73.0,72.4,908
+Madhya Pradesh,Dewas,2019-21,94.0,80.0,73.5,74.2,73.0,925
+Madhya Pradesh,Satna,2019-21,92.5,77.4,71.8,69.5,69.0,915
+Madhya Pradesh,Ratlam,2019-21,94.8,81.2,74.8,76.0,74.5,938
+Madhya Pradesh,Rewa,2019-21,92.0,76.8,70.5,68.0,67.5,920
+West Bengal,Kolkata,2019-21,99.2,90.5,89.4,95.8,92.0,934
+West Bengal,North 24 Parganas,2019-21,98.4,88.0,86.2,90.4,87.5,948
+West Bengal,South 24 Parganas,2019-21,96.8,84.2,81.5,82.5,80.2,952
+West Bengal,Howrah,2019-21,98.0,87.1,85.0,89.2,86.0,940
+West Bengal,Hooghly,2019-21,97.9,87.5,84.8,88.0,85.4,955
+West Bengal,Paschim Medinipur,2019-21,96.2,83.5,80.4,78.4,77.0,960
+West Bengal,Purba Bardhaman,2019-21,97.0,85.0,82.0,82.0,80.5,948
+West Bengal,Darjeeling,2019-21,97.5,86.4,83.2,84.5,82.8,962
+West Bengal,Murshidabad,2019-21,93.4,78.5,74.0,72.5,71.8,950
+West Bengal,Nadia,2019-21,96.5,84.0,81.2,81.0,79.5,945
+Odisha,Khordha,2019-21,98.2,87.4,85.8,89.0,84.5,938
+Odisha,Cuttack,2019-21,98.0,87.0,85.2,86.5,83.2,948
+Odisha,Ganjam,2019-21,95.0,81.5,77.0,74.0,74.8,960
+Odisha,Balasore,2019-21,96.2,83.8,80.5,78.5,78.0,950
+Odisha,Sambalpur,2019-21,96.5,84.5,81.0,81.2,79.8,956
+Odisha,Puri,2019-21,97.4,85.8,83.4,82.4,81.5,952
+Odisha,Mayurbhanj,2019-21,92.0,76.5,69.8,65.4,68.0,972
+Odisha,Sundargarh,2019-21,95.8,82.8,78.9,79.5,77.2,955
+Odisha,Bhadrak,2019-21,96.8,84.6,81.8,79.0,79.2,958
+Odisha,Angul,2019-21,96.0,83.5,79.8,80.2,78.4,946
+Punjab,Ludhiana,2019-21,98.4,88.5,85.4,94.2,90.1,895
+Punjab,Amritsar,2019-21,97.8,86.4,82.8,91.5,87.2,908
+Punjab,Jalandhar,2019-21,98.6,89.0,86.1,95.0,91.0,920
+Punjab,Patiala,2019-21,97.2,85.8,81.4,89.4,85.8,902
+Punjab,Bathinda,2019-21,96.0,83.2,78.0,86.2,82.5,890
+Punjab,Hoshiarpur,2019-21,98.8,89.5,87.2,92.0,89.4,942
+Punjab,Mohali (SAS Nagar),2019-21,99.2,91.0,88.5,96.5,93.2,912
+Punjab,Pathankot,2019-21,97.0,85.0,82.0,88.0,84.6,898
+Punjab,Moga,2019-21,95.5,82.0,77.2,84.8,81.0,905
+Punjab,Firozpur,2019-21,94.8,81.0,75.8,82.5,79.8,901
+Haryana,Gurugram,2019-21,99.4,90.8,89.2,97.2,93.0,905
+Haryana,Faridabad,2019-21,98.6,88.4,86.5,94.0,89.5,912
+Haryana,Panipat,2019-21,96.8,84.5,81.0,89.2,85.0,896
+Haryana,Ambala,2019-21,98.0,87.2,84.8,91.0,87.6,920
+Haryana,Yamunanagar,2019-21,96.5,84.0,80.5,88.5,84.2,904
+Haryana,Rohtak,2019-21,97.4,86.0,82.6,90.2,86.5,902
+Haryana,Hisar,2019-21,95.2,82.5,78.4,85.0,81.8,898
+Haryana,Karnal,2019-21,96.9,84.8,81.2,88.8,85.2,915
+Haryana,Sonipat,2019-21,97.1,85.5,82.0,89.5,86.0,895
+Haryana,Panchkula,2019-21,99.0,90.0,88.0,95.8,92.4,918
+Andhra Pradesh,Visakhapatnam,2019-21,98.5,87.0,83.2,87.5,84.0,962
+Andhra Pradesh,Vijayawada (NTR),2019-21,98.8,88.2,85.0,90.0,86.8,958
+Andhra Pradesh,Guntur,2019-21,98.2,86.5,82.5,86.0,83.5,955
+Andhra Pradesh,Nellore,2019-21,97.8,85.2,81.0,83.8,81.5,948
+Andhra Pradesh,Kurnool,2019-21,95.4,80.8,74.5,75.2,74.0,950
+Andhra Pradesh,Kakinada,2019-21,98.0,86.0,82.4,85.4,83.0,965
+Andhra Pradesh,Tirupati,2019-21,98.4,87.2,83.8,87.0,84.5,968
+Andhra Pradesh,Rajahmundry (East Godavari),2019-21,98.2,86.8,83.0,86.2,83.8,970
+Andhra Pradesh,Kadapa (YSR),2019-21,96.5,82.5,77.8,78.5,77.0,945
+Andhra Pradesh,Anantapur,2019-21,95.8,81.2,75.0,76.0,75.2,942
+Telangana,Hyderabad,2019-21,99.5,91.2,89.8,96.4,92.5,945
+Telangana,Rangareddy,2019-21,98.8,88.5,86.0,92.0,88.0,940
+Telangana,Medchal-Malkajgiri,2019-21,99.0,89.8,88.2,94.5,90.8,948
+Telangana,Warangal Urban,2019-21,98.0,86.4,83.5,87.2,84.5,958
+Telangana,Karimnagar,2019-21,97.5,85.0,81.8,84.0,82.0,952
+Telangana,Nizamabad,2019-21,96.8,83.5,79.5,80.5,79.5,975
+Telangana,Khammam,2019-21,97.2,84.2,80.5,82.2,80.8,960
+Telangana,Mahbubnagar,2019-21,95.0,80.5,75.0,75.0,74.2,955
+Telangana,Nalgonda,2019-21,96.0,82.0,77.2,78.5,77.4,948
+Telangana,Adilabad,2019-21,94.2,79.0,74.0,73.0,72.5,950
