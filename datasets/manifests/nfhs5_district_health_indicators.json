@@ -1,0 +1,79 @@
+{
+  "id": "nfhs5_health",
+  "tableName": "district_health_indicators",
+  "title": "National Family Health Survey (NFHS-5) District Indicators",
+  "description": "District-level estimates of maternal healthcare, childhood immunization, women literacy, sanitation access, and sex ratio at birth from the NFHS-5 (2019-21).",
+  "sourceUrl": "http://rchiips.org/nfhs/factsheet_NFHS-5.shtml",
+  "license": "Open Government Data License - India (OGDL-India)",
+  "sourceVersion": "NFHS-5_2019-21",
+  "sourceUpdatedAt": "2022-03-21T00:00:00Z",
+  "reportingPeriods": ["2019-21"],
+  "columns": [
+    {
+      "name": "id",
+      "type": "INTEGER",
+      "isPrimary": true,
+      "description": "Unique record identifier"
+    },
+    {
+      "name": "state_name",
+      "type": "VARCHAR(100)",
+      "description": "Name of the State / Union Territory",
+      "unit": "Text"
+    },
+    {
+      "name": "district_name",
+      "type": "VARCHAR(100)",
+      "description": "Administrative district name",
+      "unit": "Text"
+    },
+    {
+      "name": "survey_period",
+      "type": "VARCHAR(20)",
+      "description": "Survey period (2019-21)",
+      "unit": "Period"
+    },
+    {
+      "name": "institutional_births_pct",
+      "type": "NUMERIC(5,2)",
+      "description": "Institutional deliveries percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "children_fully_immunized_pct",
+      "type": "NUMERIC(5,2)",
+      "description": "Children 12-23 months fully immunized percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "women_literacy_pct",
+      "type": "NUMERIC(5,2)",
+      "description": "Literate women aged 15-49 percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "clean_cooking_fuel_pct",
+      "type": "NUMERIC(5,2)",
+      "description": "Households using clean fuel for cooking percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "improved_sanitation_pct",
+      "type": "NUMERIC(5,2)",
+      "description": "Households with improved sanitation facilities percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "sex_ratio_at_birth",
+      "type": "INTEGER",
+      "description": "Sex ratio at birth (females per 1,000 males)",
+      "unit": "Females per 1,000 Males"
+    }
+  ],
+  "sampleQuestions": [
+    "Which five districts have the highest institutional births percentage in NFHS-5?",
+    "What is the average immunization coverage for districts in Bihar?",
+    "Compare the women literacy rate and clean cooking fuel percentage across districts in Gujarat.",
+    "Which districts have an improved sanitation percentage exceeding 80%?"
+  ]
+}
