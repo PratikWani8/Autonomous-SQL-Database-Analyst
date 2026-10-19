@@ -1,0 +1,79 @@
+{
+  "id": "plfs_unemployment",
+  "tableName": "district_unemployment_stats",
+  "title": "District-wise Labour Force Participation and Unemployment Rates",
+  "description": "Annual district-level estimates of rural, urban, and combined unemployment rates along with Labour Force Participation Rate (LFPR) and Worker Population Ratio (WPR) across Indian districts.",
+  "sourceUrl": "https://data.gov.in/resource/periodic-labour-force-survey-district-estimates",
+  "license": "Open Government Data License - India (OGDL-India)",
+  "sourceVersion": "2022-23_v1.0",
+  "sourceUpdatedAt": "2023-10-15T00:00:00Z",
+  "reportingPeriods": ["2021-22", "2022-23"],
+  "columns": [
+    {
+      "name": "id",
+      "type": "INTEGER",
+      "isPrimary": true,
+      "description": "Unique record identifier"
+    },
+    {
+      "name": "state_name",
+      "type": "VARCHAR(100)",
+      "description": "Name of the Indian State / Union Territory",
+      "unit": "Text"
+    },
+    {
+      "name": "district_name",
+      "type": "VARCHAR(100)",
+      "description": "Name of the administrative district",
+      "unit": "Text"
+    },
+    {
+      "name": "reporting_year",
+      "type": "VARCHAR(20)",
+      "description": "Financial / Survey period (2021-22, 2022-23)",
+      "unit": "Year"
+    },
+    {
+      "name": "rural_unemployment_rate",
+      "type": "NUMERIC(5,2)",
+      "description": "Percentage of rural labor force unemployed",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "urban_unemployment_rate",
+      "type": "NUMERIC(5,2)",
+      "description": "Percentage of urban labor force unemployed",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "overall_unemployment_rate",
+      "type": "NUMERIC(5,2)",
+      "description": "Overall district unemployment rate",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "labour_force_participation_rate",
+      "type": "NUMERIC(5,2)",
+      "description": "Labour Force Participation Rate (LFPR)",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "worker_population_ratio",
+      "type": "NUMERIC(5,2)",
+      "description": "Worker Population Ratio (WPR)",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "surveyed_households",
+      "type": "INTEGER",
+      "description": "Sample size of households surveyed",
+      "unit": "Count"
+    }
+  ],
+  "sampleQuestions": [
+    "Which five districts experienced the largest increase in overall unemployment rate between 2021-22 and 2022-23?",
+    "Which states have the highest average unemployment rate in 2022-23?",
+    "Compare the rural versus urban unemployment rate for districts in Maharashtra in 2022-23.",
+    "What is the average labour force participation rate in Karnataka for 2022-23?"
+  ]
+}
