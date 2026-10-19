@@ -1,0 +1,91 @@
+{
+  "id": "census_demographics",
+  "tableName": "district_demographics_stats",
+  "title": "District Population, Sex Ratio, and Literacy Statistics",
+  "description": "Comprehensive decennial Census indicators covering total, male, and female population, sex ratio, and literacy metrics across Indian districts for Census 2001 and 2011.",
+  "sourceUrl": "https://censusindia.gov.in/census.website/data/census-tables",
+  "license": "Open Government Data License - India (OGDL-India)",
+  "sourceVersion": "Census_2011_Final",
+  "sourceUpdatedAt": "2013-04-30T00:00:00Z",
+  "reportingPeriods": ["2001", "2011"],
+  "columns": [
+    {
+      "name": "id",
+      "type": "INTEGER",
+      "isPrimary": true,
+      "description": "Unique record identifier"
+    },
+    {
+      "name": "state_name",
+      "type": "VARCHAR(100)",
+      "description": "Name of the Indian State / Union Territory",
+      "unit": "Text"
+    },
+    {
+      "name": "district_name",
+      "type": "VARCHAR(100)",
+      "description": "Administrative district name",
+      "unit": "Text"
+    },
+    {
+      "name": "census_year",
+      "type": "INTEGER",
+      "description": "Census enumeration year (2001 or 2011)",
+      "unit": "Year"
+    },
+    {
+      "name": "total_population",
+      "type": "BIGINT",
+      "description": "Total population count",
+      "unit": "Persons"
+    },
+    {
+      "name": "male_population",
+      "type": "BIGINT",
+      "description": "Male population count",
+      "unit": "Persons"
+    },
+    {
+      "name": "female_population",
+      "type": "BIGINT",
+      "description": "Female population count",
+      "unit": "Persons"
+    },
+    {
+      "name": "sex_ratio",
+      "type": "INTEGER",
+      "description": "Females per 1,000 males",
+      "unit": "Females per 1,000 Males"
+    },
+    {
+      "name": "literacy_rate",
+      "type": "NUMERIC(5,2)",
+      "description": "Total literacy rate percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "male_literacy_rate",
+      "type": "NUMERIC(5,2)",
+      "description": "Male literacy rate percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "female_literacy_rate",
+      "type": "NUMERIC(5,2)",
+      "description": "Female literacy rate percentage",
+      "unit": "Percentage (%)"
+    },
+    {
+      "name": "area_sq_km",
+      "type": "NUMERIC(10,2)",
+      "description": "Total geographic area in square kilometers",
+      "unit": "Sq Km"
+    }
+  ],
+  "sampleQuestions": [
+    "Which five districts have the highest population in 2011?",
+    "How did the literacy rate change in Kerala districts between 2001 and 2011?",
+    "Which districts had a sex ratio greater than 1000 in 2011?",
+    "What is the average literacy rate across states in 2011?"
+  ]
+}
