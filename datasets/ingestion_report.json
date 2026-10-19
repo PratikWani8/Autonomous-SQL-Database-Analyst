@@ -1,0 +1,171 @@
+[
+  {
+    "datasetId": "census_demographics",
+    "tableName": "district_demographics_stats",
+    "title": "District Population, Sex Ratio, and Literacy Statistics",
+    "sourceUrl": "https://censusindia.gov.in/census.website/data/census-tables",
+    "license": "Open Government Data License - India (OGDL-India)",
+    "initialRows": 300,
+    "duplicatesDetected": 0,
+    "insertedRows": 300,
+    "rejectedRows": 0,
+    "rejectedErrors": [],
+    "missingValueAnalysis": {
+      "state_name": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "district_name": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "census_year": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "total_population": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "male_population": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "female_population": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "sex_ratio": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "literacy_rate": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "male_literacy_rate": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "female_literacy_rate": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "area_sq_km": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      }
+    },
+    "reportingPeriods": [
+      "2001",
+      "2011"
+    ]
+  },
+  {
+    "datasetId": "nfhs5_health",
+    "tableName": "district_health_indicators",
+    "title": "National Family Health Survey (NFHS-5) District Indicators",
+    "sourceUrl": "http://rchiips.org/nfhs/factsheet_NFHS-5.shtml",
+    "license": "Open Government Data License - India (OGDL-India)",
+    "initialRows": 150,
+    "duplicatesDetected": 0,
+    "insertedRows": 150,
+    "rejectedRows": 0,
+    "rejectedErrors": [],
+    "missingValueAnalysis": {
+      "state_name": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "district_name": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "survey_period": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "institutional_births_pct": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "children_fully_immunized_pct": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "women_literacy_pct": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "clean_cooking_fuel_pct": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "improved_sanitation_pct": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "sex_ratio_at_birth": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      }
+    },
+    "reportingPeriods": [
+      "2019-21"
+    ]
+  },
+  {
+    "datasetId": "plfs_unemployment",
+    "tableName": "district_unemployment_stats",
+    "title": "District-wise Labour Force Participation and Unemployment Rates",
+    "sourceUrl": "https://data.gov.in/resource/periodic-labour-force-survey-district-estimates",
+    "license": "Open Government Data License - India (OGDL-India)",
+    "initialRows": 300,
+    "duplicatesDetected": 0,
+    "insertedRows": 300,
+    "rejectedRows": 0,
+    "rejectedErrors": [],
+    "missingValueAnalysis": {
+      "state_name": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "district_name": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "reporting_year": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "rural_unemployment_rate": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "urban_unemployment_rate": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "overall_unemployment_rate": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "labour_force_participation_rate": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "worker_population_ratio": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      },
+      "surveyed_households": {
+        "nullCount": 0,
+        "nullPercentage": 0.0
+      }
+    },
+    "reportingPeriods": [
+      "2021-22",
+      "2022-23"
+    ]
+  }
+]
