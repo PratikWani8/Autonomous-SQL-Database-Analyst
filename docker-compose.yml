@@ -1,0 +1,98 @@
+version: '3.8'
+
+services:
+  # 1. PostgreSQL Database for Indian Public Datasets
+  postgres:
+    image: postgres:16-alpine
+    container_name: sql_analyst_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: indian_public_data
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./database/schemas/01_init_tables.sql:/docker-entrypoint-initdb.d/01_init_tables.sql
+      - ./database/scripts/setup_readonly_user.sql:/docker-entrypoint-initdb.d/02_setup_readonly_user.sql
+    networks:
+      - analyst_net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d indian_public_data"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # 2. MongoDB Database for User Metadata & Audit History
+  mongodb:
+    image: mongo:7-jammy
+    container_name: sql_analyst_mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodata:/data/db
+    networks:
+      - analyst_net
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # 3. Python FastAPI AI Service
+  ai-service:
+    build:
+      context: ./ai-service
+      dockerfile: Dockerfile
+    container_name: sql_analyst_ai_service
+    restart: unless-stopped
+    environment:
+      AI_SERVICE_HOST: "0.0.0.0"
+      AI_SERVICE_PORT: 8000
+      INTERNAL_SERVICE_KEY: "internal_service_secret_token_12345"
+      DATABASE_URL: "postgresql://analyst_readonly:readonly_secure_pass123@postgres:5432/indian_public_data"
+      LLM_PROVIDER: "deterministic"
+      SQL_STATEMENT_TIMEOUT_MS: 5000
+      SQL_MAX_ROWS: 500
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - analyst_net
+
+  # 4. Node.js Express Gateway
+  server:
+    build:
+      context: ./server
+      dockerfile: Dockerfile
+    container_name: sql_analyst_server
+    restart: unless-stopped
+    environment:
+      PORT: 5000
+      NODE_ENV: production
+      MONGODB_URI: "mongodb://mongodb:27017/autonomous_sql_analyst"
+      JWT_SECRET: "super_secure_jwt_secret_change_in_production_min_32_chars"
+      AI_SERVICE_URL: "http://ai-service:8000"
+      INTERNAL_SERVICE_KEY: "internal_service_secret_token_12345"
+      CORS_ORIGIN: "http://localhost:5173"
+    ports:
+      - "5000:5000"
+    depends_on:
+      mongodb:
+        condition: service_healthy
+      ai-service:
+        condition: service_started
+    networks:
+      - analyst_net
+
+networks:
+  analyst_net:
+    driver: bridge
+
+volumes:
+  pgdata:
+  mongodata:
