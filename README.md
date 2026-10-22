@@ -16,8 +16,8 @@ The **Autonomous SQL Database Analyst** translates natural-language public polic
 ```
 +---------------------------------------------------------------------------------+
 |                             CLIENT TIER (React + Vite)                          |
-|   - AI Query Workspace     - Dynamic Recharts Renderer     - Dataset Explorer    |
-|   - History & Insights     - Protected Session Context      - Safe CSV Export     |
+|   - AI Query Workspace     - Dynamic Recharts Renderer     - Dataset Explorer   |
+|   - History & Insights     - Protected Session Context      - Safe CSV Export   |
 +----------------------------------------+----------------------------------------+
                                          | HTTPS / REST
                                          v
